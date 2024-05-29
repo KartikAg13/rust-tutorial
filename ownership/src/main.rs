@@ -36,7 +36,7 @@ fn main() {
     println!("The first word is {}", word);
 
     let a = [1, 2, 3, 4, 5];
-    let slice = &a[0..2];
+    let _slice = &a[0..2];
 }
 
 fn takes_and_gives_back(a_string:String) -> String {
