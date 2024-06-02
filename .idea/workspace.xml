@@ -5,35 +5,49 @@
   </component>
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/guessing_game/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/restraunt/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/ownership/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/structs/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/variables/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5caee935-31b7-4a9f-8e35-8098dc379b01" name="Changes" comment="" />
+    <list default="true" id="5caee935-31b7-4a9f-8e35-8098dc379b01" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/rust-tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust-tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KartikAg13"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KartikAg13&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KartikAg13/rust-tutorial.git",
-    "accountId": "85993650-4b94-4280-83cb-fc189f1ad2bf"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KartikAg13/rust-tutorial.git&quot;,
+    &quot;accountId&quot;: &quot;85993650-4b94-4280-83cb-fc189f1ad2bf&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="hoxq3mr2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2gzUEvXeyplv5mLXJffIHy2dPe7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,15 +55,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/kartik/Desktop/rust-tutorial",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
-    "org.rust.first.attach.projects": "true"
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "org.rust.hideNoCargoProjectNotifications/home/kartik/Desktop/rust-tutorial/enums/src/main.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/home/kartik/Desktop/rust-tutorial/option_enum/src/main.rs": "true",
+    "settings.editor.selected.configurable": "language.rust.cargo.check"
   }
 }]]></component>
+  <component name="RsExternalLinterProjectSettings">
+    <option name="runOnTheFly" value="true" />
+  </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
   </component>
@@ -62,6 +86,9 @@
       <option name="presentableId" value="Default" />
       <updated>1716699793118</updated>
       <workItem from="1716699794562" duration="66000" />
+      <workItem from="1717331648394" duration="474000" />
+      <workItem from="1717342702267" duration="1414000" />
+      <workItem from="1717351592982" duration="2413000" />
     </task>
     <servers />
   </component>
