@@ -7,11 +7,19 @@
       <sourceFolder url="file://$MODULE_DIR$/restraunt/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collections/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hashmap/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/ownership/target" />
       <excludeFolder url="file://$MODULE_DIR$/restraunt/target" />
       <excludeFolder url="file://$MODULE_DIR$/structs/target" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/collections/target" />
+      <excludeFolder url="file://$MODULE_DIR$/string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/vector/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hashmap/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
