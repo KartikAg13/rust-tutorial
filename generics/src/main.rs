@@ -53,7 +53,7 @@ fn main() {
     
 }
 
-//generic function with a trait restricting its possible types
+//generic function with a trait restricting its possible types, trait bound
 fn get_largest<T:PartialOrd + Copy>(list:Vec<T>) -> T {
     let mut largest = list[0];
     for number in list {
