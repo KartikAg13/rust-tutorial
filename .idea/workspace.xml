@@ -18,12 +18,13 @@
     <cargoProject FILE="$PROJECT_DIR$/traits/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/lifetime/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/chapter10/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/testing/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/adder/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5caee935-31b7-4a9f-8e35-8098dc379b01" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/rust-tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust-tutorial.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/generics/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +107,8 @@
       <workItem from="1717574279119" duration="74000" />
       <workItem from="1717575452198" duration="1825000" />
       <workItem from="1717767964135" duration="3476000" />
+      <workItem from="1717826906301" duration="123000" />
+      <workItem from="1717851807077" duration="506000" />
     </task>
     <servers />
   </component>
