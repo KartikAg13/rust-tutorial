@@ -1,4 +1,17 @@
-pub struct Guess {
+pub fn add_two(a:i32) -> i32 {
+    internal_adder(a, 2)
+}
+
+fn internal_adder(a:i32, b:i32) -> i32 {
+    a + b
+}
+
+fn prints_and_returns_10(a:i32) -> i32 {
+    println!("I got the value {}", a);
+    10
+}
+
+pub struct Guess {  
     value: i32
 }
 
@@ -43,9 +56,9 @@ mod tests {
     #[test]
     fn it_works() -> Result<(), String> {
         let result = add(2, 2);
-        assert_eq!(result, 4);
+        assert_eq!(result, 4);  //asserts that the two values are equal
 
-        if 2 + 3 == 4 {
+        if 2 + 2 == 4 {
             Ok(())
         }
         else {
@@ -54,6 +67,7 @@ mod tests {
     }
 
     #[test]
+    #[ignore]   //this ignores the test
     fn failing_test() {
         panic!("Make this test fail");
     }
@@ -89,6 +103,7 @@ mod tests {
     #[test]
     fn greeting_contains_name() {
         let result = greeting("Kartik");
+        //if the given equation is false, then print the statement
         assert!(
             result.contains("Carol"),
             "Greetings did not contain name, value was {}", result
@@ -96,8 +111,21 @@ mod tests {
     }
 
     #[test]
-    #[should_panic(expected = "Guess value must be less than or equal to 100")] 
+    #[should_panic(expected = "Guess value must be less than or equal to 100")]
     fn greater_than_100() {
         Guess::new(200);
+    }
+
+    #[test]
+    fn this_test_will_pass() {
+        let value = prints_and_returns_10(4);
+        assert_eq!(10, value);
+    }
+
+    //by default the test that fails only prints the output
+    #[test]
+    fn this_test_will_fail() {
+        let value = prints_and_returns_10(8);
+        assert_eq!(5, value);
     }
 }

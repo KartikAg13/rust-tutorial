@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/traits/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/testing/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/adder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adder/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/ownership/target" />
       <excludeFolder url="file://$MODULE_DIR$/restraunt/target" />
