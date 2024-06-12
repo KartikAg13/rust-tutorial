@@ -21,6 +21,7 @@
     <cargoProject FILE="$PROJECT_DIR$/testing/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/adder/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/minigrep/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/closures/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5caee935-31b7-4a9f-8e35-8098dc379b01" name="Changes" comment="">
@@ -113,6 +114,7 @@
       <workItem from="1718029551079" duration="248000" />
       <workItem from="1718030454794" duration="4008000" />
       <workItem from="1718097248543" duration="1327000" />
+      <workItem from="1718164711340" duration="1149000" />
     </task>
     <servers />
   </component>
